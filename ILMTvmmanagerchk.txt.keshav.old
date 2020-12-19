@@ -1,0 +1,11 @@
+-1 InvalidCredentialsSuspended
+0 Pending
+1 OK
+2 ConnectionFailed
+3 InvalidCredentialsAttempting
+6 DuplicatedAddress
+7 HardTimeoutSuspended
+8 OKDuplicatedUUIDsDiscarded
+9 NoVMManagerData
+98 Inactive
+99 UnknownProblem
