@@ -8,7 +8,7 @@
 # Amendments:
 #---------------------------------------------------------------------------------------------------
 #
-set -x
+#set -x
 DAY=`date +"%d%b%y"`
 TIME=`date +"%H:%M"`
 LOG=/tmp/ILMTlogs/DB2offline.$DAY
